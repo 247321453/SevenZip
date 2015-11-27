@@ -65,9 +65,7 @@
     <Compile Include="Compress\RangeCoder\RangeCoder.cs" />
     <Compile Include="Compress\RangeCoder\RangeCoderBit.cs" />
     <Compile Include="Compress\RangeCoder\RangeCoderBitTree.cs" />
-    <Compile Include="ICoder.cs">
-      <Link>SevenZip\ICoder.cs</Link>
-    </Compile>
+    <Compile Include="ICoder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
